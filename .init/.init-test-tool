@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/ridetrack-taxi-booking-311643-311663/backend_api"
+}
